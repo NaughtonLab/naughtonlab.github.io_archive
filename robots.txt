@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://naughtonlab.github.io//sitemap.xml
+Sitemap: https://naughtonlab.github.io/sitemap.xml
