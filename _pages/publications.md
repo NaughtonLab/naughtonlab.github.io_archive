@@ -35,7 +35,7 @@ Zhang, XZ, Naughton N, Parthasarathy T, and Gazzola M. **[Friction modulation in
 
 Chang HS, Halder U, Gribkova E, Tekinalp A, Naughton N, Gazzola M, and Mehta PG. **[Controlling a CyberOctopus Soft Arm with Muscle-like Actuation](../pubs/2021_CDC.pdf){: target="_blank"}**. **IEEE Conference on Decision and Control (CDC)**, 2021; p.1383-1390. 
 
-Sullivan DJ, Wu X, Gallo NR, Naughton N, Georgiadis JG, and Pelegri AA. **[Sensitivity analysis of effective transverse viscoelastic and diffusional properties of tissue with myelinated axons](../pubs/2023_PMB.pdf){: target="_blank"}**. **Physics in Medicine and Biology**, 2021; 66(3):035027. 
+Sullivan DJ, Wu X, Gallo NR, Naughton N, Georgiadis JG, and Pelegri AA. **[Sensitivity analysis of effective transverse viscoelastic and diffusional properties of tissue with myelinated axons](../pubs/2021_PMB.pdf){: target="_blank"}**. **Physics in Medicine and Biology**, 2021; 66(3):035027. 
 
 <hr>
 
@@ -47,7 +47,7 @@ Naughton N, Tennyson CG, and Georgiadis JG. **[Lattice Boltzmann method for simu
 <hr>
 
 #### <b> 2019</b>
-Naughton N and Georgiadis JG. **[Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle](../pubs/2019_PMB){: target="_blank"}**. **Physics in Medicine and Biology**, 2019; 64(15):155004. 
+Naughton N and Georgiadis JG. **[Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle](../pubs/2019_PMB.pdf){: target="_blank"}**. **Physics in Medicine and Biology**, 2019; 64(15):155004. 
 
 Naughton N, and Georgiadis JG. **[Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration](../pubs/2019_PEARC.pdf){: target="_blank"}**. **Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19)**. p7, (July 2019), Chicago, IL, USA.
 
