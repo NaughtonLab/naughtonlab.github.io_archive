@@ -22,9 +22,9 @@ Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazz
 
 Pineda Guzman RA, Naughton N, Majumdar S, Damon B, Kersh ME. **[Assessment of Mechanically Induced Changes in Helical Fiber Microstructure Using Diffusion Tensor Imaging](../pubs/2023_ABE.pdf){: target="_blank"}**. **Annals of Biomedical Engineering**, 2023; 27:1-3.
 
-Shih CH, Naughton N, Halder U, Chang HS, Kim SH, Gillette R, Mehta PG, and Gazzola M. **[Hierarchical control and learning of a foraging CyberOctopus](../pubs/2023_AIS.pdf){: target="_blank"}**. **Advanced Intelligent Systems**, 2023; 11:2300088.
+Shih CH, Naughton N, Halder U, Chang HS, Kim SH, Gillette R, Mehta PG, and Gazzola M. **[Hierarchical control and learning of a foraging CyberOctopus](../pubs/2023_AIS.pdf){: target="_blank"}**. **Advanced Intelligent Systems**, 2023; 11:2300088. (**[Cover](../pubs/2023_AIS_cover.pdf){: target="_blank"}**)
 
-Chang HS, Halder U, Shih CH, Naughton N, Gazzola M, and Mehta PG. **[Energy Shaping Control of a Muscular Octopus Arm Moving in Three Dimensions](../pubs/2023_PRSA.pdf){: target="_blank"}**. **Proceedings of the Royal Society A**, 2023; 479:20220593.
+Chang HS, Halder U, Shih CH, Naughton N, Gazzola M, and Mehta PG. **[Energy Shaping Control of a Muscular Octopus Arm Moving in Three Dimensions](../pubs/2023_PRSA.pdf){: target="_blank"}**. **Proceedings of the Royal Society A**, 2023; 479:20220593. (**[Cover](../pubs/2023_PRSA_cover.pdf){: target="_blank"}**)
 
 <hr>
 
