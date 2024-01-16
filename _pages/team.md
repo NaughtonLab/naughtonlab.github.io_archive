@@ -88,7 +88,7 @@ nav_order: 2
 <div class="profile float-left" >
 <figure>
   <picture>
-    <img src="/assets/img/zheng_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/zheng_headshot.png" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
 </figure>
 
