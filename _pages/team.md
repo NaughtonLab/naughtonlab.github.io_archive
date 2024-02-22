@@ -106,6 +106,44 @@ nav_order: 2
 <h2 id="primary-investigator">Undergraduate Students</h2>
 <hr>
   
+<div class="profile float-left" >
+<figure>
+  <picture>
+    <img src="/assets/img/ramadhan_headshot.png" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+</figure>
+
+<div class="more-info">
+<p><b>Azhar Ramadhan</b> </p> <br>
+    <p>Mechanical Engineering</p> <br>
+</div>
+</div>
+
+<div class="profile float-left" >
+<figure>
+  <picture>
+    <img src="/assets/img/chiou_headshot.png" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+</figure>
+
+<div class="more-info">
+<p><b>Michael Chiou</b> </p> <br>
+    <p>Mechanical Engineering</p> <br>
+</div>
+</div>
+
+<div class="profile float-left" >
+<figure>
+  <picture>
+    <img src="/assets/img/george_headshot.png" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+</figure>
+
+<div class="more-info">
+<p><b>Kenneth George</b> </p> <br>
+    <p>Mechanical Engineering</p> <br>
+</div>
+</div>
 
 
   
