@@ -18,6 +18,12 @@ Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazz
 
 <hr>
 
+#### <b> 2024</b>
+
+Zhao Q, Gribkova E, Shen Y, Cui J, Naughton N, Liu L, Seo J, Tong B, Gazzola M, Gillette R, and Zhao H. **[Highly stretchable and customizable microneedle electrode arrays for intramuscular electromyography]**. **Science Advances**, 2024; (accepted).
+
+<hr>
+
 #### <b> 2023</b>
 
 Pineda Guzman RA, Naughton N, Majumdar S, Damon B, Kersh ME. **[Assessment of Mechanically Induced Changes in Helical Fiber Microstructure Using Diffusion Tensor Imaging](../pubs/2023_ABE.pdf){: target="_blank"}**. **Annals of Biomedical Engineering**, 2023; 27:1-3.
