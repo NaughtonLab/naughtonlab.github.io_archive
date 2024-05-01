@@ -20,7 +20,7 @@ Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazz
 
 #### <b> 2024</b>
 
-Zhao Q, Gribkova E, Shen Y, Cui J, Naughton N, Liu L, Seo J, Tong B, Gazzola M, Gillette R, and Zhao H. **[Highly stretchable and customizable microneedle electrode arrays for intramuscular electromyography](../)**. **Science Advances**, 2024; (accepted).
+Zhao Q, Gribkova E, Shen Y, Cui J, Naughton N, Liu L, Seo J, Tong B, Gazzola M, Gillette R, and Zhao H. **[Highly stretchable and customizable microneedle electrode arrays for intramuscular electromyography](../pubs/2024_SciAdv.pdf)**. **Science Advances**, 2024; 10:18.  (**[Cover](../pubs/2024_SciAdv_cover.jpg){: target="_blank"}**)
 
 <hr>
 
