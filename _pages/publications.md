@@ -12,13 +12,13 @@ These publications are provided to the academic community for use in teaching an
 
 #### <b>Preprints</b>
 
-Naughton N,  Cahoon S,  Sutton B, and Georgiadis JG. **[Accelerated, physics-inspired inference of skeletal muscle microstructure from diffusion-weighted MRI](https://arxiv.org/abs/2306.11125){: target="_blank"}**. **arXiv:2306.11125**
-
 Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. **[Topology, dynamics, and control of an octopus-analog muscular hydrostat](https://arxiv.org/abs/2304.08413){: target="_blank"}**. **arXiv:2304.08413**
 
 <hr>
 
 #### <b> 2024</b>
+
+Naughton N,  Cahoon S,  Sutton B, and Georgiadis JG. **[Accelerated, physics-inspired inference of skeletal muscle microstructure from diffusion-weighted MRI](../pubs/2024_TMI.pdf){: target="_blank"}**. **IEEE Transactions on Medical Imaging**, 2024 (accepted).
 
 Zhao Q, Gribkova E, Shen Y, Cui J, Naughton N, Liu L, Seo J, Tong B, Gazzola M, Gillette R, and Zhao H. **[Highly stretchable and customizable microneedle electrode arrays for intramuscular electromyography](../pubs/2024_SciAdv.pdf)**. **Science Advances**, 2024; 10:18.  (**[Cover](../pubs/2024_SciAdv_cover.jpg){: target="_blank"}**)
 
