@@ -10,13 +10,15 @@ nav_order: 3
 These publications are provided to the academic community for use in teaching and research. All copyrights remain with the appropriate parties as listed in the publications themselves.
 
 
-#### <b>Preprints</b>
+<!-- #### <b>Preprints</b>
 
 Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. **[Topology, dynamics, and control of an octopus-analog muscular hydrostat](https://arxiv.org/abs/2304.08413){: target="_blank"}**. **arXiv:2304.08413**
 
-<hr>
+<hr> -->
 
 #### <b> 2024</b>
+
+Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. **[Topology, dynamics, and control of an octopus-analog muscular hydrostat](https://arxiv.org/abs/2304.08413){: target="_blank"}**. **PNAS**, 2024 (accepted)
 
 Naughton N,  Cahoon S,  Sutton B, and Georgiadis JG. **[Accelerated, physics-inspired inference of skeletal muscle microstructure from diffusion-weighted MRI](../pubs/2024_TMI.pdf){: target="_blank"}**. **IEEE Transactions on Medical Imaging**, 2024 (accepted).
 
