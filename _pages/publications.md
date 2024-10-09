@@ -18,11 +18,11 @@ Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazz
 
 #### <b> 2024</b>
 
-Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. **[Topology, dynamics, and control of an octopus-analog muscular hydrostat](https://arxiv.org/abs/2304.08413){: target="_blank"}**. **PNAS**, 2024 (accepted)
+Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. **[Topology, dynamics, and control of a muscle-architected soft arm](../pubs/2024_PNAS.pdf){: target="_blank"}**. **PNAS**, 2024;121:41. (**[Cover](../pubs/2024_PNAS_cover.pdf){: target="_blank"}**)
 
-Naughton N,  Cahoon S,  Sutton B, and Georgiadis JG. **[Accelerated, physics-inspired inference of skeletal muscle microstructure from diffusion-weighted MRI](../pubs/2024_TMI.pdf){: target="_blank"}**. **IEEE Transactions on Medical Imaging**, 2024 (accepted).
+Naughton N,  Cahoon S,  Sutton B, and Georgiadis JG. **[Accelerated, physics-inspired inference of skeletal muscle microstructure from diffusion-weighted MRI](../pubs/2024_TMI.pdf){: target="_blank"}**. **IEEE Transactions on Medical Imaging**, 2024;41:10.
 
-Zhao Q, Gribkova E, Shen Y, Cui J, Naughton N, Liu L, Seo J, Tong B, Gazzola M, Gillette R, and Zhao H. **[Highly stretchable and customizable microneedle electrode arrays for intramuscular electromyography](../pubs/2024_SciAdv.pdf)**. **Science Advances**, 2024; 10:18.  (**[Cover](../pubs/2024_SciAdv_cover.jpg){: target="_blank"}**)
+Zhao Q, Gribkova E, Shen Y, Cui J, Naughton N, Liu L, Seo J, Tong B, Gazzola M, Gillette R, and Zhao H. **[Highly stretchable and customizable microneedle electrode arrays for intramuscular electromyography](../pubs/2024_SciAdv.pdf)**. **Science Advances**, 2024; 10:18. (**[Cover](../pubs/2024_SciAdv_cover.jpg){: target="_blank"}**)
 
 <hr>
 
