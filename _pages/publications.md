@@ -7,6 +7,13 @@ nav: true
 nav_order: 3
 ---
 
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <img src="/assets/img/covers.png" class="img-fluid z-depth-1" width="100%" height="auto" alt="covers.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+
+<br>
+
 These publications are provided to the academic community for use in teaching and research. All copyrights remain with the appropriate parties as listed in the publications themselves.
 
 

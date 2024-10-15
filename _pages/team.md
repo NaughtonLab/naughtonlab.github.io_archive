@@ -109,47 +109,61 @@ nav_order: 2
 
 <h2 id="primary-investigator">Undergraduate Students</h2>
 <hr>
+
+<div class="clearfix">
   
 <div class="profile float-left" >
-<figure>
-  <picture>
-    <img src="/assets/img/ramadhan_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-  </picture>
-</figure>
-
-<div class="more-info">
-<p><b>Azhar Ramadhan</b> </p> <br>
-    <p>Mechanical Engineering</p> <br>
+  <figure>
+    <picture>
+      <img src="/assets/img/no_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Claudia Sanna</b> </p> <br>
+      <p>Mechanical Engineering</p> <br>
+  </div>
 </div>
-</div>
 
+<!--
 <div class="profile float-left" >
-<figure>
-  <picture>
-    <img src="/assets/img/chiou_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-  </picture>
-</figure>
-
-<div class="more-info">
-<p><b>Michael Chiou</b> </p> <br>
-    <p>Mechanical Engineering</p> <br>
+  <figure>
+    <picture>
+      <img src="/assets/img/chiou_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Michael Chiou</b> </p> <br>
+      <p>Mechanical Engineering</p> <br>
+  </div>
 </div>
-</div>
+--> 
 
+<!--
 <div class="profile float-left" >
-<figure>
-  <picture>
-    <img src="/assets/img/no_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-  </picture>
-</figure>
-
-<div class="more-info">
-<p><b>Kenneth George</b> </p> <br>
-    <p>Mechanical Engineering</p> <br>
+  <figure>
+    <picture>
+      <img src="/assets/img/no_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Kenneth George</b> </p> <br>
+      <p>Mechanical Engineering</p> <br>
+  </div>
 </div>
+-->
+
 </div>
 
+<br>
+
+<h2 id="alumni">Alumni</h2>
+<hr>
+  <ul>
+  <li>Azhar Ramadhan (UG) - Boeing</li>
+  <li>Michael Chiou (UG) - PhD student @ UPenn</li>
+</ul>
 
   
+
   </article>
 
